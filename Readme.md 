@@ -1,0 +1,1 @@
+to open the report execute 'allure generate allure-results' and then open 'index.html' from allure-report folder
